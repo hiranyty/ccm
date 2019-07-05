@@ -17,7 +17,7 @@
 # Frontend
 1) Download the Frontend  folder.
 
-2) Run npm install and nom start
+2) Run npm install and npm start
 
     Application starts in port 3000
 
