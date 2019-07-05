@@ -1,6 +1,6 @@
 # CCM
 
-CCM is developed using spingboot 2.0, ReactJS and H2 database. Application is developed to analyze trading currencies.
+CCM is developed using spingboot 2.0, ReactJS and H2 database. Application is developed to analyze trading data.
 
 # Instrcutions to deploy and run the application
 
